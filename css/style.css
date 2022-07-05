@@ -1,0 +1,66 @@
+body {
+    background-color: E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.container {
+    width: 1500px;
+    margin: 0 auto;
+}
+
+.flex-head {
+    display: flex;
+}
+
+.head-img img {
+    width: 800px;
+}
+
+.head-txt span {
+    color: orange;
+}
+
+.head-txt h1 {
+    font-size: 60px;
+    color: #575757;
+    margin-top: 200px;
+}
+
+.head-txt h4 {
+    font-size: 20px;
+    color: dimgray;
+    font-weight: 500;
+    margin-right: 50px;
+    display: block;
+    margin-top: 60px;
+}
+
+.head-txt a {
+    text-decoration: none;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    padding: 20px 35px;
+    border-radius: 40px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+.head-txt {
+    width: 50%;
+}
+
+.head-img {
+    width: 50%;
+}
+
+/* section 1 closed */
+.body-flex {
+    display: flex;
+    background-image: url(../photos/Frame\ 56.jpg);
+}
