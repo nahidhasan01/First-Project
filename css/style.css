@@ -62,12 +62,11 @@ body {
 /* section 1 closed */
 .body-flex {
     display: flex;
-    background-image: url(../photos/Frame\ 56.jpg);
-    background-repeat: no-repeat;
 }
 
 .body-img {
     width: 50%;
+    margin-top: 130px;
 }
 
 .body-txt {
@@ -75,6 +74,56 @@ body {
 }
 
 .Bg-2 {
-    max-width: 1500px;
-    width: 100%;
+    background-image: url(../photos/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+    background-size: 1912px 600px;
+    height: 600px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
+
+.body-txt h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #707070;
+    margin-top: 150px;
+}
+
+.body-txt p {
+    font-size: 18px;
+    color: #18191F;
+    margin-right: 201px;
+}
+
+.body-txt a {
+    text-decoration: none;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    padding: 20px 35px;
+    border-radius: 40px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    display: block;
+    width: 100px;
+    text-align: center;
+    margin-top: 135px;
+}
+
+/* section 2 closed */
+.header-mid {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.header-mid h1 {
+    font-size: 42px;
+    font-weight: 700;
+    color: #676767;
+}
+
+.header-mid p{
+    color: #252525;
+    font-weight: 300;
+    font-size: 18px;
+}
+/* section 3 closed */
