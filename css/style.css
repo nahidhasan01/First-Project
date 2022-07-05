@@ -192,3 +192,69 @@ body {
 #bottom {
     margin-bottom: 100px;
 }
+
+/* section 4 closed */
+.flex-btm {
+    display: flex;
+}
+
+.sub {
+    width: 33%;
+    text-align: center;
+}
+
+.follow {
+    width: 33%;
+    text-align: center;
+}
+
+.view {
+    width: 33%;
+    text-align: center;
+}
+
+.sub h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.view h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.follow h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.bx-shadow {
+    box-shadow: 0px 0px 10px black;
+    border-radius: 10px;
+}
+
+.btm-cont {
+    margin-bottom: 100px;
+}
+
+/* 5 ends */
+.heading-foot {
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 50px;
+}
+
+.heading-foot span {
+    color: orange;
+}
+
+.heading-foot h3 {
+    color: #5B5B5B;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.heading-foot p {
+    color: white;
+    font-weight: 300;
+}
