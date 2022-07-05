@@ -63,4 +63,18 @@ body {
 .body-flex {
     display: flex;
     background-image: url(../photos/Frame\ 56.jpg);
+    background-repeat: no-repeat;
+}
+
+.body-img {
+    width: 50%;
+}
+
+.body-txt {
+    width: 50%;
+}
+
+.Bg-2 {
+    max-width: 1500px;
+    width: 100%;
 }
